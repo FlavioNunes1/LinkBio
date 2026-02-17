@@ -1,4 +1,6 @@
 🔗 Flávio Nunes – Link in Bio & Developer Hub
+
+
 Personal Links Page + Mini Portfolio
 
 
@@ -9,6 +11,7 @@ Personal Links Page + Mini Portfolio
 
 
 🇧🇷 Português
+
 📌 Sobre o Projeto
 
 Este projeto é uma página personalizada de Link na Bio com identidade visual própria, desenvolvida para centralizar:
@@ -92,6 +95,7 @@ Melhor performance
 Independência de plataformas terceiras
 
 🇺🇸 English Version
+
 📌 About the Project
 
 This project is a custom-built Link in Bio + Personal Developer Hub designed to centralize:
@@ -139,4 +143,5 @@ Responsive modern UI
 👨‍💻 Developer
 
 Flávio Nunes
+
 Web Developer focused on building modern and scalable digital solutions.
